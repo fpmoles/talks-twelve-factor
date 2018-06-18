@@ -7,7 +7,7 @@ This presentation will focus on the twelve distinct components, workflows, and t
 
 ## Presented At
 * 2017 KCDC
-* 2018 KC June PCF Workshop
+* 2018 KC June Spring Developer Workshop
 
 ## Last Updated
 June 2018
